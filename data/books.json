@@ -1,0 +1,12 @@
+{
+  "9780001": {
+    "title": "Book One",
+    "author": "Author A",
+    "reviews": {}
+  },
+  "9780002": {
+    "title": "Book Two",
+    "author": "Author B",
+    "reviews": {}
+  }
+}
